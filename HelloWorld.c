@@ -7,8 +7,15 @@
 void main()
 
 {
+
    printf(" hello world ****, make my changes toooooo owhat is going on then\r\n");
 
    printf(" hello from test2 \r\n");
+
+
+	
+printf(" hello world ****, make my changes toooooo owhat is going on then\r\n");
+   printf(" hello from test1\r\n");
+
 
 }
