@@ -11,4 +11,5 @@ void main()
 
    printf(" hello from test2 \r\n");
 
+   printf(" add more, should merge wiht test 1\r\n");
 }
